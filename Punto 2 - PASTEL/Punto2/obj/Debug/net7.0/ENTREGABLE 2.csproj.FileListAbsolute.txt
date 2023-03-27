@@ -1,0 +1,15 @@
+C:\Users\Harri\Desktop\projects\Punto 2 - PASTEL\bin\Debug\net7.0\ENTREGABLE 2.exe
+C:\Users\Harri\Desktop\projects\Punto 2 - PASTEL\bin\Debug\net7.0\ENTREGABLE 2.deps.json
+C:\Users\Harri\Desktop\projects\Punto 2 - PASTEL\bin\Debug\net7.0\ENTREGABLE 2.runtimeconfig.json
+C:\Users\Harri\Desktop\projects\Punto 2 - PASTEL\bin\Debug\net7.0\ENTREGABLE 2.dll
+C:\Users\Harri\Desktop\projects\Punto 2 - PASTEL\bin\Debug\net7.0\ENTREGABLE 2.pdb
+C:\Users\Harri\Desktop\projects\Punto 2 - PASTEL\obj\Debug\net7.0\ENTREGABLE 2.csproj.AssemblyReference.cache
+C:\Users\Harri\Desktop\projects\Punto 2 - PASTEL\obj\Debug\net7.0\ENTREGABLE 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harri\Desktop\projects\Punto 2 - PASTEL\obj\Debug\net7.0\ENTREGABLE 2.AssemblyInfoInputs.cache
+C:\Users\Harri\Desktop\projects\Punto 2 - PASTEL\obj\Debug\net7.0\ENTREGABLE 2.AssemblyInfo.cs
+C:\Users\Harri\Desktop\projects\Punto 2 - PASTEL\obj\Debug\net7.0\ENTREGABLE 2.csproj.CoreCompileInputs.cache
+C:\Users\Harri\Desktop\projects\Punto 2 - PASTEL\obj\Debug\net7.0\ENTREGABLE 2.dll
+C:\Users\Harri\Desktop\projects\Punto 2 - PASTEL\obj\Debug\net7.0\refint\ENTREGABLE 2.dll
+C:\Users\Harri\Desktop\projects\Punto 2 - PASTEL\obj\Debug\net7.0\ENTREGABLE 2.pdb
+C:\Users\Harri\Desktop\projects\Punto 2 - PASTEL\obj\Debug\net7.0\ENTREGABLE 2.genruntimeconfig.cache
+C:\Users\Harri\Desktop\projects\Punto 2 - PASTEL\obj\Debug\net7.0\ref\ENTREGABLE 2.dll
